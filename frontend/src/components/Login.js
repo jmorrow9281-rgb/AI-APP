@@ -63,7 +63,7 @@ const Login = () => {
 
           {/* Welcome Text */}
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-semibold mb-2">Welcome to Emergent</h1>
+            <h1 className="text-3xl font-semibold mb-2">Welcome to JulioMakk</h1>
             <p className="text-gray-400">
               Don't have an account?{' '}
               <a href="#" className="text-cyan-400 hover:underline">
