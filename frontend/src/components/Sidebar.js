@@ -81,7 +81,7 @@ const Sidebar = () => {
           <div className="w-8 h-8 bg-black rounded-full flex items-center justify-center">
             <div className="w-4 h-4 bg-white rounded-full transform rotate-12"></div>
           </div>
-          <h1 className="font-semibold text-gray-900 dark:text-white">Emergent</h1>
+          <h1 className="font-semibold text-gray-900 dark:text-white">JulioMakk</h1>
         </div>
         
         <div className="flex items-center space-x-2">
